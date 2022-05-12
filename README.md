@@ -1,3 +1,3 @@
 # .github
 
-Community health files for the @Rocketseat organization 👋🏻
+Community health files for the @Doclanda organization 👋🏻
